@@ -6,6 +6,7 @@ import router from './router'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
 import Components from '@/components/index'
+import './stylus/main.styl'
 
 // Import store
 import store from './store'
